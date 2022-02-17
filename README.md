@@ -8,7 +8,7 @@
 
 </p>
 
-## Principais recurso estudados
+## Principais recursos estudados
 
 
 - Variaveis (nome, tipagem, inferência, camelcase, snackcase);
