@@ -3,12 +3,12 @@
 <p align="center"> O READMDE será atualizado conforme eu for avançando.</p>
 
 <p align="center">
-<img width="160" height="100" src="images/dart.jpg"/>
+<img width="160" height="100" src="images/dart.png"/>
 
 
 </p>
 
-## Principais recurso de estudo
+## Principais recurso estudados
 
 
 - Variaveis (nome, tipagem, inferência, camelcase, snackcase);
