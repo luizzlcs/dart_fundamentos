@@ -10,6 +10,7 @@
 
 ## Principais recursos estudados
 
+# FUNDAMENTOS
 
 - Variaveis (nome, tipagem, inferência, camelcase, snackcase);
 - Modificadores: final e const;
