@@ -15,6 +15,10 @@
 - Variaveis (nome, tipagem, inferência, camelcase, snackcase);
 - Modificadores: final e const;
 - Operadores condicionais (if, else);
+- Operadores relacionais : == (Igualdade), != (Diferença), > (Maior que), < (Menor que), <= (Menor ou igual), >= (Maior ou igual);
+- Operadores lógicos: && (E), || (OU), ! (não);
+- Operador ternário: Uma simplificação do if\else ;
+- Switch
 
 
 ### Autor
