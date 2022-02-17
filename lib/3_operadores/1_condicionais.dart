@@ -1,9 +1,10 @@
 main() {
   var idade = 21;
 
+//Idade deve ser maior que 18 anos para ser habilitado.
   if (idade >= 18) {
-    print('Você é maior de idade');
+    print('Você já pode tirar a habilitação!');
   } else {
-    print('você ainda não possui 18 de idade');
+    print('Não pode tirar a habilitação!');
   }
 }
