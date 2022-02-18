@@ -19,6 +19,14 @@
 - Operadores lógicos: && (E), || (OU), ! (não);
 - Operador ternário: Uma simplificação do if\else ;
 - Switch
+- Null safety;
+- Null Ware Operator (??);
+- Conditional Property Access;
+- Listas;
+- Listas com Nullsafety.
+- Idex
+- Utilizando os métodos: .length, .toString, .insert, .add, .addAll, .removeWhere, .firstWhere., .lastWhere, List.generate, .fold.
+- Spred Operator, 
 
 
 ### Autor

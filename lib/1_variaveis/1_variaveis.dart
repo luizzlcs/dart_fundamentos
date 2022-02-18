@@ -1,3 +1,4 @@
+//TODO Variaveis
 main() {
   num idade = 25;
   num nota = 8.10;

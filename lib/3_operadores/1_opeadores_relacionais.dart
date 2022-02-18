@@ -1,4 +1,4 @@
-// OPERADORES RELACIONAIS
+//TODO OPERADORES RELACIONAIS
 // Temos 6 tipos:
 // == (Igualdade)
 // != (Diferença)

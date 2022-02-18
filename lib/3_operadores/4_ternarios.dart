@@ -1,4 +1,4 @@
-// O ternário é uma simplificação do if e else
+//TODO O Ternário é uma simplificação do if e else
 
 void main() {
   final idade = 16;

@@ -1,4 +1,4 @@
-// 3 OPERADORES LÓGICOS
+//TODO 3 OPERADORES LÓGICOS
 
 // '&&' (E)
 // '||' (OU) se lê Pipe

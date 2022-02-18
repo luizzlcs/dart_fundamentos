@@ -1,3 +1,4 @@
+//TODO SWITCH CASE
 void main() {
   final diaDaSemana = 7;
 
