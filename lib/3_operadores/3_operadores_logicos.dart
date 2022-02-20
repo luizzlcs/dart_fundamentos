@@ -11,7 +11,7 @@ void main() {
 
   // Operador lógico && as duas condições precisam ser verdadeiras.
 
-  // TRUEFALSE && TRUE = TRUE
+  // TRUE && TRUE = TRUE
   // FALSE &&  TRUE = FALSE
   // TRUE &&  FALSE = FALSE
 
@@ -21,7 +21,7 @@ void main() {
     print('Não pode entrar');
   }
 
-  // Operador lógico && ||(ou) asuma das condições precisa ser verdadeira.
+  // Operador lógico && ||(ou) a soma das condições precisa ser verdadeira.
   if (sexo == 'M' || idade >= 18) {
     print('Pode entrar');
   } else {
@@ -32,7 +32,7 @@ void main() {
   if (!(idade > 18)) {
     print('Lista todas as pessoas menores de 18 anos');
   }
-  if (!(nome == 'Luiz')) {
-    print('Retorna somente nomes que forem diferentes Luiz');
+  if (!(nome != 'Luiz')) {
+    print('Retorna somente nomes que não forem diferentes Luiz');
   }
 }

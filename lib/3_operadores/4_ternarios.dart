@@ -11,6 +11,6 @@ void main() {
 
   // usando o ternário
 
-  final eMiorDeIdade = idade == 18 ? true : false;
-  print('É maior de idade? ' + eMiorDeIdade.toString());
+  final eMaiorDeIdade = idade == 18 ? true : false;
+  print('É maior de idade? ' + eMaiorDeIdade.toString());
 }

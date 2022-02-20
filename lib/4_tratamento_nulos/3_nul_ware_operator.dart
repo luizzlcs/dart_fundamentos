@@ -1,8 +1,10 @@
-String? nome;
+String? nome = ' Roberto';
 void main() {
-  var sobrenome = 'Luiz';
+  var sobrenome = ' Carlos';
   // Se a variavel nome for diferente de null, ou seja, a variavel não é nula, então considera o valor da variavel, caso seja nulla, atribui o valor após as duas interrogações e cocatena com a variavel sobrenome.
-  var nomeCompleto = (nome ?? 'Carlos') + sobrenome;
+  var nomeCompleto = (nome ?? 'Luiz') + sobrenome;
+
+  print('Null operation $nomeCompleto');
 
   //TODO NULL AWARE OPERATOR
   String? nomeCompleto2 = null;

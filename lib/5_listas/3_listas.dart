@@ -107,4 +107,12 @@ void main() {
   var produtos = ['Banana', 'Abacate', 'Uva', if (promocaoAtiva) 'Mamão'];
 
   print(produtos);
+
+  //TODO Colection for
+
+  var listaItens = [1, 2, 3];
+
+  var listaString = ['#0', '#01', for (var i in listaItens) '#$i'];
+
+  print(listaString);
 }

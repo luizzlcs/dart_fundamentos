@@ -8,6 +8,7 @@
 
 </p>
 
+
 ## Principais recursos estudados
 
 ### FUNDAMENTOS
@@ -27,6 +28,8 @@
 - Idex
 - Utilizando os métodos: .length, .toString, .insert, .add, .addAll, .removeWhere, .firstWhere., .lastWhere, List.generate, .fold.
 - Spred Operator, 
+- Colection if
+- Colection for
 
 
 ### Autor

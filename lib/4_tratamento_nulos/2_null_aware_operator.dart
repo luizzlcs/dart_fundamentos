@@ -1,6 +1,6 @@
 String? nome;
 void main() {
-  //Usando o ternário para atribuir uma variavel superior a nível logal, porém essa não é a forma mais adequada.
+  //Usando o ternário para atribuir uma variavel superior a nível local, porém essa não é a forma mais adequada.
   var nomeCompleto = ((nome != null) ? nome! + ' Luiz' : 'Luiz Carlos');
 
   // Utilizando o if else o códgigo fica mais legível.

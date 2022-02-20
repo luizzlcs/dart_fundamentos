@@ -6,7 +6,7 @@ main() {
   int idade2 = 37;
   double nota2 = 8.9;
 
-// quanto a variavel for inicializada com um valor, com base no valor inserido, o dart já infere o tipo, logo não precisa especificar a tipagem, basta especificar var e o nome da variavél.
+// quando a variavel for inicializada com um valor, com base no valor inserido, o dart já infere o tipo, logo não precisa especificar a tipagem, basta especificar "var" e o nome da variavél.
 
   var nome = 'Luiz Carlos';
   var numeroDaCasa = 284;
