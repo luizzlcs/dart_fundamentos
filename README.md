@@ -30,6 +30,11 @@
 - Spred Operator, 
 - Colection if
 - Colection for
+- Uso do for
+- Uso do for in
+- Break dentro do for e for in
+- While e Do while
+- Iterable: takeWhile
 
 
 ### Autor
