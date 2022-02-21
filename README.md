@@ -24,17 +24,18 @@
 - Null Ware Operator (??);
 - Conditional Property Access;
 - Listas;
-- Listas com Nullsafety.
-- Idex
-- Utilizando os métodos: .length, .toString, .insert, .add, .addAll, .removeWhere, .firstWhere., .lastWhere, List.generate, .fold.
-- Spred Operator, 
-- Colection if
-- Colection for
-- Uso do for
-- Uso do for in
-- Break dentro do for e for in
-- While e Do while
-- Iterable: takeWhile
+- Listas com Nullsafety;
+- Idex;
+- Utilizando os métodos: .length, .toString, .insert, .add, .addAll, .removeWhere, .firstWhere., .lastWhere, List.generate, .fold;
+- Spred Operator;
+- Colection if;
+- Colection for;
+- Uso do for;
+- Uso do for in;
+- Break dentro do for e for in;
+- While e Do while;
+- Iterable: takeWhile, Where, SkipWhile e Map;
+- Substring: Convensões e manipulações de strings, Interpolação, Split.
 
 
 ### Autor
