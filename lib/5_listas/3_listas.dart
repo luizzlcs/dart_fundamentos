@@ -11,12 +11,12 @@ void main() {
   //TODO Adicionando um novo nome e escolhendo a posição.
   nomes.insert(0, 'Pedro');
 
-  //TODO Adicionando um novo nome a lista sem definir a posição.
+  //TODO Adicionando um novo objeto a lista sem definir a posição.
   nomes.add('João');
   print(nomes);
   print('Pegar nome » ' + nomes[2]);
 
-  //TODO Removendo nome da lista
+  //TODO Removendo objeto da lista
   nomes.remove('Daniel');
   print('1 nome foi removido' + nomes.toString());
 

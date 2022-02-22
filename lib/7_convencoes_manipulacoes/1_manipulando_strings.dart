@@ -31,10 +31,54 @@ void main() {
   }
 
   print('----- UTILIZANDO CONTAINS');
-  
+
   if (nome.toLowerCase().contains('carlos')) {
     print('Nome encontrado: $nome');
   } else {
     print('Nome não encontrato');
   }
+
+//TODO Split
+
+  var paciente = 'Luiz Carlos|38|Especialista em dart e Flutter|Natal - RN';
+  var dadosPaciente = paciente.split('|');
+  print(dadosPaciente);
+
+  for (var item in dadosPaciente) {
+    print(item);
+  }
+  print('----- SPLIT EM LISTAS -----');
+  var pacientes = [
+    'Luiz Carlos da Silva|38|Especialista em dart e Flutter| Natal - RN',
+    'Lucicleide Oliveira|37|administra  dora|Natal-RN',
+    'Thiago Pereira de Souza|29|administra  dora|Natal-RN'
+  ];
+
+  print('--- Retorna todos os nomes ---');
+  for (var paciente in pacientes) {
+    var dadosPacientes = paciente.split('|');
+    var nome = dadosPacientes;
+    print(nome);
+  }
+
+  print('--- Retorna o último nomes ---');
+  for (var paciente in pacientes) {
+    var dadosPacientes = paciente.split('|');
+    var nomeCompleto = dadosPacientes[0];
+    var nome = nomeCompleto.split(' ').last;
+    print(nome);
+  }
+
+  print('--- Retorna parte de um nome especificado ---');
+  for (var paciente in pacientes) {
+    var dadosDosPacientes = paciente.split('|');
+    var nomeCompleto = dadosDosPacientes[0];
+    if (nomeCompleto.toLowerCase().contains('thiago')) {
+      return print(nomeCompleto.substring(7, 14));
+    } else {
+      print('Nome não encontrado');
+    }
+  }
+
+  
 }

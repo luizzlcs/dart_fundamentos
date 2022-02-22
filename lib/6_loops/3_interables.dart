@@ -6,7 +6,7 @@ void main() {
   print('Removendo o 5 da lista');
   numero.where((element) => element != 5).forEach((element) => print(element));
 
-  //? TakeWhile interage até determinado ponto da lista, no exemplo abaixo o lanço pecorre todos os valores que são menores que 7, ou seja pecorre de 1 até 6.
+  //? TakeWhile interage até determinado ponto da lista, no exemplo abaixo o laço pecorre todos os valores que são menores que 7, ou seja pecorre de 1 até 6.
   print('----- takeWhile -----');
   final numeroAte6 = numero
       .takeWhile((value) => value < 7)
@@ -35,22 +35,4 @@ void main() {
   var numerosEmString = numero.map((e) => 'O numero é: $e').toList();
   print(numerosEmString);
 
-  var paciente = 'Luiz Carlos|38|Especialista em dart e Flutter|Natal - RN';
-//TODO Split
-  var dadosPaciente = paciente.split('|');
-  print(dadosPaciente);
-
-  for (var item in dadosPaciente) {
-    print(item);
-  }
-  print('----- SPLIT EM LISTAS -----');
-  var pacientes = [
-    'Luiz Carlos|38|Especialista em dart e Flutter| Natal - RN',
-    'Lucicleide|37|administradora|Natal-RN'
-  ];
-
-  for (var item in pacientes) {
-    var dadosPaciente = item.split('|');
-    print(dadosPaciente[0]);
-  }
 }
