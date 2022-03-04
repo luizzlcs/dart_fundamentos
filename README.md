@@ -9,7 +9,7 @@
 </p>
 
 
-## Principais recursos estudados
+## Tópicos estudados e consolidados
 
 ### FUNDAMENTOS
 
