@@ -1,5 +1,5 @@
-void main(){
-   //! Detalhe sobre a String
+void main() {
+  //! Detalhe sobre a String
   //! A String é composta por 4 campos (Nome|Idade|Profissão|Estado onde mora)
   final pacientes = [
     'Rodrigo Rahman|35|desenvolvedor|SP',
@@ -89,6 +89,7 @@ void main(){
   });
 
   print('3 - Apresente a quantidade de pacientes que moram em SP');
+  print('');
 
   var estadosDoBrasil = [];
 

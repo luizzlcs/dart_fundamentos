@@ -72,6 +72,9 @@ print('1 - Apresente os pacientes com mais de 20 anos e print o nome deles');
     }
   }
 ```
+<p align="center">
+<img width="310" height="210" src="images/atividade1.png"/>
+</p>
 
 ```
 print('2 - Apresente quantos pacientes existem para cada profissão (desenvolvedor, estudante, dentista');
@@ -98,6 +101,9 @@ var profissoes = [];
     print('Profissão: $profissaoNome, Quantidade: $profissaoQuantidade');
   });
 ```
+<p align="center">
+<img width="310" height="200" src="images/atividade2.png"/>
+</p>
 
 ```
 print('3 - Apresente a quantidade de pacientes que moram em SP');
@@ -124,6 +130,9 @@ var estadosDoBrasil = [];
     print('Estado : $estadosNome » Qtd $estadoQuantidade');
   });
 ```
+<p align="center">
+<img width="310" height="210" src="images/atividade3.png"/>
+</p>
 
 ### Autor
 
