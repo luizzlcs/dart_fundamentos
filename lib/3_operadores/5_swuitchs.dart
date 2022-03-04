@@ -1,11 +1,10 @@
 //TODO SWITCH CASE
 void main() {
-
   // É uma forma de reduzir a complexidade de vários if … else encadeados.
   // É muito utilizado, principalmente para uso em estruturas de menu.
   // O conteúdo de uma variável é comparado com um valor constante, e caso a comparação seja verdadeira, um determinado comando é executado.
   final diaDaSemana = 7;
-
+// comida com pão
   switch (diaDaSemana) {
     case 1:
       print('Domingo');
@@ -15,7 +14,8 @@ void main() {
       break;
     case 3:
       print('Terça-feira');
-      break;''
+      break;
+      '';
     case 4:
       print('Quarta-feira');
       break;
