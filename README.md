@@ -1,6 +1,6 @@
 <h1 align="center">ATIVIDADES DESENVOLVIDAS NO CURSO DA ACADEMIA DO FLUTTER</h1>
 
-<p align="center"> MÓDULO CONCLUÍDO COM ÊXITO.</p>
+<p align="center"> DART FUNDAMENTOS.</p>
 
 <p align="center">
 <img width="160" height="100" src="images/dart.png"/>
